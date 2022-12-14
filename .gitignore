@@ -1,0 +1,8 @@
+node_modules/
+uni_modules/
+unpackage/
+dist/**
+.hbuilderx/
+.project
+.DS_Store
+.vite
